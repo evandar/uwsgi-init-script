@@ -9,6 +9,7 @@
 # Description:       Management of uWSGI server in emperor mode.
 
 # Author: Tomáš Pecka <tomaspecka@gmail.com>
+### END INIT INFO
 
 # TODO: return codes http://refspecs.linuxbase.org/LSB_3.1.1/LSB-Core-generic/LSB-Core-generic/iniscrptact.html
 #	config
